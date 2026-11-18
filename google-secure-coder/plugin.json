@@ -1,0 +1,5 @@
+{
+    "name": "google-secure-coder",
+    "description": "Hub central de la suite Google: datos en GCP (BigQuery, Spark, Dataflow, Composer), catálogos y calidad de datos, y seguridad de código (SecureCoder). Enruta a módulos temáticos bajo modules/.",
+    "disabled": false
+}
